@@ -63,7 +63,7 @@ abstract class DocumentAbstract implements \ArrayAccess
 
     /**
      * Populate model with data
-     * 
+     *
      * @param array $data
      */
     public function populate(array $data)
